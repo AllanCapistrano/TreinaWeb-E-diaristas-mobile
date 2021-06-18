@@ -1,0 +1,1 @@
+declare module '*.png'; //Declarando um módulo, para corrigir o erro do TypeScript.
