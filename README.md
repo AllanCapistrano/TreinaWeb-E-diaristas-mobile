@@ -4,8 +4,8 @@
 Repositório que contém o projeto desenvolvido durante o Workshop Multi-stack organizado pela [**TreinaWeb**](https://www.treinaweb.com.br/). <br />
 O projeto trata-se de uma platafora para a contratação de diarista.
 
-[Frontend](https://github.com/AllanCapistrano/TreinaWeb-E-diaristas-frontend) <br />
-[Backend](https://github.com/AllanCapistrano/TreinaWeb-E-diaristas-backend)
+- [Frontend](https://github.com/AllanCapistrano/TreinaWeb-E-diaristas-frontend) <br />
+- [Backend](https://github.com/AllanCapistrano/TreinaWeb-E-diaristas-backend)
 
 **🔗 Tecnologias utilizadas:**
 - [React Native](https://reactnative.dev/)
